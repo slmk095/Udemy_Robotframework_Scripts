@@ -1,0 +1,32 @@
+1708940731128	geckodriver	INFO	Listening on 127.0.0.1:53412
+1708940734172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SOUNDH~1.MK\\AppData\\Local\\Temp\\rust_mozprofileesftJ0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708940734601	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708940734699	Marionette	INFO	Listening on port 53421
+WebDriver BiDi listening on ws://127.0.0.1:53413
+Read port: 53421
+1708940734918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53413/devtools/browser/1e0fdec0-1baf-4a5b-9565-9f99ea911fa2
+JavaScript warning: https://www.amazon.com/, line 2019: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com/s?k=Ferrari+458&ref=nb_sb_noss, line 5912: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1708940741100	Marionette	INFO	Stopped listening on port 53421
+JavaScript warning: about:srcdoc, line 30: Script terminated by timeout at:
+z@about:srcdoc:30:212
+
+Dynamically enable window occlusion 1

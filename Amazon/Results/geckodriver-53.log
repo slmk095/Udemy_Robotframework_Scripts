@@ -1,0 +1,29 @@
+1708941177555	geckodriver	INFO	Listening on 127.0.0.1:54147
+1708941180590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54148" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SOUNDH~1.MK\\AppData\\Local\\Temp\\rust_mozprofileNXdtcC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708941181040	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708941181148	Marionette	INFO	Listening on port 54156
+WebDriver BiDi listening on ws://127.0.0.1:54148
+Read port: 54156
+1708941181387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54148/devtools/browser/aefd8450-2e6e-4683-978d-1cc3bad50cdc
+JavaScript warning: https://www.amazon.com/, line 1946: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com/s?k=Ferrari+458&ref=nb_sb_noss, line 5828: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com/RASTAR-Ferrari-Remote-Control-Italia/dp/B06ZZLKDL9/ref=sr_1_1?dib=eyJ2IjoiMSJ9.E4SH9I-unzFj-sbLgAbmR5DovcodEK0pQxitGRIR3aB3Gda4DhYKxz-f_O_zWOlkcGDUI5AciJAhZ123zACmIQq6WJX5eWb8okU7kXc7Vl25KFc6OybHrna8ZhsXY-L99911dPSnoyjAMylcKyRUM-uIBstpZa3I9f4U9q8toHUnlpFeRnkPHFFX2IvosUSiqVUr03m3dIVNDRq6bWDVd-vfUVouWBY4lmS_nh20aUPiV6mhccjGGZpeLhLZbwp8odGXKfxj6-Pjex7UKx06MQcM11V9FQosK8K1yNE6lTc.oCDwGlYUXpRUvcQ53y0TVdLK7DQCxGcQqRUAm8Ipkgo&dib_tag=se&keywords=Ferrari+458&qid=1708941191&sr=8-1, line 11775: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://m.media-amazon.com/images/I/714nITfCSzL.js, line 2: Script terminated by timeout at:
+Hl@https://m.media-amazon.com/images/I/714nITfCSzL.js:2:98499
+xl@https://m.media-amazon.com/images/I/714nITfCSzL.js:2:88553
+v@https://m.media-amazon.com/images/I/31OyASKbVLL.js:2:3386
+ce@https://m.media-amazon.com/images/I/31OyASKbVLL.js:2:5527
+
+JavaScript warning: https://www.amazon.com/cart/add-to-cart/ref=dp_start-bbf_1_glance, line 3082: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1708941192623	Marionette	INFO	Stopped listening on port 54156
+Dynamically enable window occlusion 1

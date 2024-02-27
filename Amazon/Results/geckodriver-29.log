@@ -1,0 +1,29 @@
+1708935141500	geckodriver	INFO	Listening on 127.0.0.1:50193
+1708935144536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SOUNDH~1.MK\\AppData\\Local\\Temp\\rust_mozprofilenug6Vt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708935144958	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708935145049	Marionette	INFO	Listening on port 50202
+WebDriver BiDi listening on ws://127.0.0.1:50194
+Read port: 50202
+1708935145266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50194/devtools/browser/6bad874a-4cec-4cb8-8b31-b3fa7ef6cd7d
+JavaScript warning: https://www.amazon.com/, line 1955: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com/s?k=Ferrari+458&ref=nb_sb_noss, line 5652: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1708935151086	Marionette	INFO	Stopped listening on port 50202
+Dynamically enable window occlusion 1

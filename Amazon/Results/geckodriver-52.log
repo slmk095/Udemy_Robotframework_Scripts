@@ -1,0 +1,45 @@
+1708941117986	geckodriver	INFO	Listening on 127.0.0.1:54031
+1708941121050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54032" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SOUNDH~1.MK\\AppData\\Local\\Temp\\rust_mozprofilegvdoig"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708941121441	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708941121534	Marionette	INFO	Listening on port 54040
+WebDriver BiDi listening on ws://127.0.0.1:54032
+Read port: 54040
+1708941121741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54032/devtools/browser/676918f1-9792-449a-bd04-2c48f9c3f0ae
+JavaScript warning: https://www.amazon.com/, line 1987: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com/s?k=Ferrari+458&ref=nb_sb_noss, line 5886: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com/RASTAR-Ferrari-Remote-Control-Italia/dp/B06ZZLKDL9/ref=sr_1_2?dib=eyJ2IjoiMSJ9.E4SH9I-unzFj-sbLgAbmR5DovcodEK0pQxitGRIR3aB3Gda4DhYKxz-f_O_zWOlkcGDUI5AciJAhZ123zACmIfDdYKey8Y7gJUCn7CcJ6hr2_75g1gwLGaYMzj57BX8a9911dPSnoyjAMylcKyRUM-uIBstpZa3I9f4U9q8toHUnlpFeRnkPHFFX2IvosUSicEyt0Lulz-a1s4IgdgsTDfePhfyst2GiISQ86qG4CNDiV6mhccjGGZpeLhLZbwp8odGXKfxj6-Pjex7UKx06MQcM11V9FQosK8K1yNE6lTc.54tTXhPixemVS6t2lhxrglFB_B_zfJh5Y08oV1blahA&dib_tag=se&keywords=Ferrari+458&qid=1708941130&sr=8-2, line 12577: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://m.media-amazon.com/images/I/91QZqFTVjBL.js, line 25: Script terminated by timeout at:
+a.g<@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:233783
+@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:233784
+@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:237490
+
+1708941151509	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.amazon.com/cart/add-to-cart/ref=dp_start-bbf_1_glance, line 3134: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1708941173300	Marionette	INFO	Stopped listening on port 54040
+JavaScript warning: https://m.media-amazon.com/images/I/61ZS63EQSsL.js?AUIClients/AmazonUIjQuery, line 40: Script terminated by timeout at:
+b.fn.extend@https://m.media-amazon.com/images/I/61ZS63EQSsL.js?AUIClients/AmazonUIjQuery:40:216
+e.prototype.position@https://images-na.ssl-images-amazon.com/images/I/41W974vG8QL._RC|71pP8j2iWCL.js,01QvReFeJyL.js,01phmzCOwJL.js,01eOvPdxG7L.js,71u5qjBpZXL.js,41jBieyCvYL.js,117dq5vibGL.js,01+pnQJuQ0L.js,21cN4KWOfCL.js,41nqF5HJopL.js,51dnSE-NwrL.js,31Pa7Gj4ZBL.js,11lEMI5MhIL.js,313ANWt5xVL.js,01LEzWzrPZL.js,01AqeWA7PKL.js,71-pKfDl0GL.js,41suW241oeL.js_.js?AUIClients/NavDesktopUberAsset&VtiuCky2#desktop.language-en.us.810771-T1.878681-T1.803398-T1.310484-T1:118:129
+onEnter/A<@https://images-na.ssl-images-amazon.com/images/I/41W974vG8QL._RC|71pP8j2iWCL.js,01QvReFeJyL.js,01phmzCOwJL.js,01eOvPdxG7L.js,71u5qjBpZXL.js,41jBieyCvYL.js,117dq5vibGL.js,01+pnQJuQ0L.js,21cN4KWOfCL.js,41nqF5HJopL.js,51dnSE-NwrL.js,31Pa7Gj4ZBL.js,11lEMI5MhIL.js,313ANWt5xVL.js,01LEzWzrPZL.js,01AqeWA7PKL.js,71-pKfDl0GL.js,41suW241oeL.js_.js?AUIClients/NavDesktopUberAsset&VtiuCky2#desktop.language-en.us.810771-T1.878681-T1.803398-T1.310484-T1:121:384
+
+Dynamically enable window occlusion 1

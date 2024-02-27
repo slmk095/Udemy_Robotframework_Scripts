@@ -1,0 +1,78 @@
+1708944399720	geckodriver	INFO	Listening on 127.0.0.1:55953
+1708944402753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SOUNDH~1.MK\\AppData\\Local\\Temp\\rust_mozprofilebZ8wvh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708944403016	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708944403079	Marionette	INFO	Listening on port 55962
+WebDriver BiDi listening on ws://127.0.0.1:55954
+Read port: 55962
+1708944403229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55954/devtools/browser/d4cab5d3-3d02-4d6f-a4a1-77617c58bba7
+JavaScript warning: https://www.amazon.com/, line 1987: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com/s?k=Ferrari+458&ref=nb_sb_noss, line 5343: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com/RASTAR-Ferrari-Remote-Control-Italia/dp/B06ZZLKDL9/ref=sr_1_2?dib=eyJ2IjoiMSJ9.LsPjori_OWlyTyUN3Ahlht97pyE8ib4Udgvn-2HzNyCbcRDczSZSWXurTBgawkTudJLIIpIbQ0sdvete330zQ6Ts0v0cs8skpmHURw29V6RshP2igDWXm41D-H4v61380Qnf9rqRsmJ2IhxhLQ7E3yQ502LOD9ajLfQRBPWRigiXj1hONtbLePROWvtEWmY45STKGPwqc-LbtS7_ZCkqegTyLIU6OTYvL9dTPNBLY4tjGl0aaXNxHIOKUD3NUCHGO4dI9WRytgoynjShsk2wCqn-yU_KHKQ03YGQ5n2qFCk.Ky4Im77YkxbyI2mTDFHifClnE_AmFfachlHTE_jkM70&dib_tag=se&keywords=Ferrari+458&qid=1708944411&sr=8-2, line 11910: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://m.media-amazon.com/images/I/91QZqFTVjBL.js, line 25: Script terminated by timeout at:
+1297@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:30904
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+9672@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:175549
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+5133@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:109261
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+5951@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:185904
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+7887@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:205212
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+317@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:166964
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+5998@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:26904
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+7809@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:31112
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+6771@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:147543
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+3498@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:149377
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+724@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:153088
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+6655@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:240363
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+8872@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:156897
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+6431@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:206958
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+640@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:136189
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+2872@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:137162
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+5692@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:2:626
+a@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:232731
+@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:236075
+@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:237476
+@https://m.media-amazon.com/images/I/91QZqFTVjBL.js:25:237490
+
+1708944433046	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.amazon.com/cart/add-to-cart/ref=dp_start-bbf_1_glance, line 3134: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+1708944454970	Marionette	INFO	Stopped listening on port 55962
+JavaScript warning: https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D%26oldCustomerId%3D0%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.1&suppressSignInRadioButtons=0, line 185: Script terminated by timeout at:
+D/<@https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D%26oldCustomerId%3D0%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.1&suppressSignInRadioButtons=0:185:670
+
+Dynamically enable window occlusion 1

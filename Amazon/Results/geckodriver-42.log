@@ -1,0 +1,33 @@
+1708939661166	geckodriver	INFO	Listening on 127.0.0.1:52876
+1708939664245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SOUNDH~1.MK\\AppData\\Local\\Temp\\rust_mozprofileecJL2X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708939664650	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708939664748	Marionette	INFO	Listening on port 52887
+WebDriver BiDi listening on ws://127.0.0.1:52877
+Read port: 52887
+1708939664933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52877/devtools/browser/7d755d3b-2490-4a0c-b520-c4a54da1441d
+JavaScript warning: https://www.amazon.com/, line 1946: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com."
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.com/s?k=Ferrari+458&ref=nb_sb_noss, line 5752: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1708939669974	Marionette	INFO	Stopped listening on port 52887
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/11+EVr8XXlL._RC|31YYsFFQrXL.js,31hfTQlxX3L.js,01BPbuoKVCL.js,31e-ivQFdjL.js,41P1BLAC65L.js,41xgOzcCpbL.js,01r1r3sVlxL.js,21Pf6l6LkAL.js,019dBqWurRL.js,115yI7CA9AL.js,011VrMJVPzL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11dFVWwNCJL.js,01b82LFIRTL.js,11NU-eT4i3L.js,015CwW0puPL.js,21jeZDicdtL.js,01MsgM7hzDL.js,21dMhWokf7L.js,01X+UeeJIKL.js,31S2duf8y6L.js,01FA0ZefFJL.js,41yGt772pwL.js,01uejmsfnOL.js_.js?AUIClients/SearchAssets&ghJbjI7b#759114-T1, line 31: Script terminated by timeout at:
+p@https://images-na.ssl-images-amazon.com/images/I/11+EVr8XXlL._RC|31YYsFFQrXL.js,31hfTQlxX3L.js,01BPbuoKVCL.js,31e-ivQFdjL.js,41P1BLAC65L.js,41xgOzcCpbL.js,01r1r3sVlxL.js,21Pf6l6LkAL.js,019dBqWurRL.js,115yI7CA9AL.js,011VrMJVPzL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11dFVWwNCJL.js,01b82LFIRTL.js,11NU-eT4i3L.js,015CwW0puPL.js,21jeZDicdtL.js,01MsgM7hzDL.js,21dMhWokf7L.js,01X+UeeJIKL.js,31S2duf8y6L.js,01FA0ZefFJL.js,41yGt772pwL.js,01uejmsfnOL.js_.js?AUIClients/SearchAssets&ghJbjI7b#759114-T1:31:347
+@https://images-na.ssl-images-amazon.com/images/I/11+EVr8XXlL._RC|31YYsFFQrXL.js,31hfTQlxX3L.js,01BPbuoKVCL.js,31e-ivQFdjL.js,41P1BLAC65L.js,41xgOzcCpbL.js,01r1r3sVlxL.js,21Pf6l6LkAL.js,019dBqWurRL.js,115yI7CA9AL.js,011VrMJVPzL.js,01XQQDMWkKL.js,012z3lMdhOL.js,11dFVWwNCJL.js,01b82LFIRTL.js,11NU-eT4i3L.js,015CwW0puPL.js,21jeZDicdtL.js,01MsgM7hzDL.js,21dMhWokf7L.js,01X+UeeJIKL.js,31S2duf8y6L.js,01FA0ZefFJL.js,41yGt772pwL.js,01uejmsfnOL.js_.js?AUIClients/SearchAssets&ghJbjI7b#759114-T1:48:328
+
+Dynamically enable window occlusion 1

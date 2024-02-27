@@ -1,0 +1,15 @@
+1708897237371	geckodriver	INFO	Listening on 127.0.0.1:50709
+1708897240431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50710" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SOUNDH~1.MK\\AppData\\Local\\Temp\\rust_mozprofiledS9KI0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708897240834	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708897240935	Marionette	INFO	Listening on port 50718
+WebDriver BiDi listening on ws://127.0.0.1:50710
+Read port: 50718
+1708897241130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50710/devtools/browser/09bacd70-a50b-4d47-81c9-237b13fec6c3
+JavaScript warning: https://www.amazon.com/, line 1991: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524288, w=1024, h=512)
+out of memory: 0x0000000000000100 bytes requested
+out of memory: 0x0000000000004000 bytes requested
